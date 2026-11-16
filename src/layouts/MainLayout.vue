@@ -63,6 +63,24 @@ const linksList = [
     caption: 'Zadatak',
     icon: 'science',
     to: '/test3'
+  },
+  {
+    label: 'Test page4',
+    caption: 'Zadatak',
+    icon: 'science',
+    to: '/test4'
+  },
+  {
+    label: 'Test page5',
+    caption: 'Zadatak',
+    icon: 'science',
+    to: '/test5'
+  },
+  {
+    label: 'Test page6',
+    caption: 'Zadatak',
+    icon: 'science',
+    to: '/test6'
   }
 ]
 
