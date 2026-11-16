@@ -10,7 +10,7 @@
         <q-btn label="Spremi" color="blue" @click="spremi()" />
       </q-card-actions>
 
-      <q-card-section v-for="(t, index) in tekstovi" :key="index">
+      <q-card-section v-for="t in tekstovi" :key="t">
         {{ t }}
       </q-card-section>
     </q-card>
