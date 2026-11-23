@@ -81,15 +81,12 @@ const linksList = [
     caption: 'Zadatak',
     icon: 'science',
     to: '/test6'
-<<<<<<< HEAD
   },
   {
     label: 'Test page7',
     caption: 'Zadatak',
     icon: 'science',
     to: '/test7'
-=======
->>>>>>> 7c11fa01c3f9c924627a2414cdb6a9060a2d7232
   }
 ]
 
