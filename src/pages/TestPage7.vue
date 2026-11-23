@@ -13,7 +13,7 @@
       </q-card-section>
 
       <q-card-section class="q-pt-none">
-        Ovdje ide opis ili neki tekst koji želiš prikazati u kartici.
+        opis ili neki tekst.
       </q-card-section>
 
       <q-separator />
